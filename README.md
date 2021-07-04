@@ -15,7 +15,7 @@
   <a href="https://devmudit.me/">
     <img align="left" alt="Mudit's website" title="My website" src="https://img.shields.io/badge/website-2962FF?style=for-the-badge&logo=website&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mudit023.in/">
+  <a href="https://www.instagram.com/mudit023/">
     <img align="left" alt="Mudit's Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
