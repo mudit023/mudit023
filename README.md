@@ -36,23 +36,59 @@ I like making things beautiful and functional, with which users can interact eas
 <br />
 <br />
 
+<div align="center">
 
-## Skills 🤖
+## Technology stack
 
+</br>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+<!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+<!-- <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> -->
+
+<!-- <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/> -->
+
+<!-- <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
+
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<!-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<!-- <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> -->
+
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+</br>
+</br>
+
+---
+
+## Github Stats
+
+</br>
+
+</div>
+  
 <p align="center">
-  <code><img height="48" src="https://i.stack.imgur.com/PgcSR.png" /></code>
-  <code><img height="48" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" /></code>
-  <code><img height="48" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/dusk/50/000000/react.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/color/50/000000/material-ui.png" /></code>
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mudit023&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&theme=tokyonight" />
 
 </p>
 
-## Stats 👨‍💻
-<p align="center"><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=mudit023&show_icons=true&theme=radical&count_private=true'/>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=mudit023&show_icons=true&theme=radical&count_private=true'/></p>
-
-<br />
 
 ![](https://komarev.com/ghpvc/?username=mudit023&style=flat-square&label=Profile+Visitors&color=blueviolet)
