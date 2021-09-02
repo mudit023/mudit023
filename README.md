@@ -25,9 +25,9 @@
 
 <br/>
 
- - 🔭 Hi, I'm a first year CSE undergrad student and self-taught frontend web developer based in India. I like exploring different domains and learn and apply as much as I can.
+ - 🔭 Hi, I'm a second year CSE undergrad student and a self-taught frontend web developer based in India. I like exploring different domains and learn and apply as much as I can.
 
-I like making things beautiful and functional, with which users can interact easily. I'm just a beginner, and there is a lot left for me to learn. As of now, I'm learning frontend dev, designing, and data structures and algorithms. If I'll able to add some value to your life, I'll be more than happy.
+I like making things beautiful and functional, with which users can interact easily. I'm just a beginner, and there is a lot left for me to learn. As of now, I'm learning fullstack web dev, designing, and data structures and algorithms.
  - Currently learning full stack web development with MERN stack.
  - Interested in web development, UI/UX, open source, and problem solving.
  - Documnenting about my learning journey on <a href="https://www.linkedin.com/in/mudit-mishra/">LinkedIn </a> and <a href="https://twitter.com/muditwt">Twitter. </a>
@@ -38,7 +38,9 @@ I like making things beautiful and functional, with which users can interact eas
 
 <div align="center">
 
-## Technology stack
+---
+	
+## Tech stack
 
 </br>
 
