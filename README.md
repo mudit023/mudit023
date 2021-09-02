@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, This is Mudit Mishra!
+  Hi there, this is Mudit Mishra!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -92,3 +92,5 @@ I like making things beautiful and functional, with which users can interact eas
 
 
 ![](https://komarev.com/ghpvc/?username=mudit023&style=flat-square&label=Profile+Visitors&color=blueviolet)
+
+[![Mudit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mudit023&theme=dracula)](https://git.io/mudit023)
