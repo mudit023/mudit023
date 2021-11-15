@@ -25,7 +25,7 @@
 
 <br/>
 
- - 🔭 Hi, I'm a second year CSE undergrad student and a self-taught frontend web developer based in India. I like exploring different domains and learn and apply as much as I can.
+ -Hi, I'm a second year CSE undergrad student and a self-taught frontend web developer based in India. I like exploring different domains and learn and apply as much as I can.
 
 I like making things beautiful and functional, with which users can interact easily. I'm just a beginner, and there is a lot left for me to learn. As of now, I'm learning fullstack web dev, designing, and data structures and algorithms.
  - Currently learning full stack web development with MERN stack.
