@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/muditwt" target="blank"><img src="https://img.shields.io/twitter/follow/muditwt?logo=twitter&style=for-the-badge" alt="muditwt" /></a> </p>
 
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How To Learn And Get Better At Web Development](https://mudit.hashnode.dev/how-to-learn-and-get-better-at-web-development)
 <!-- BLOG-POST-LIST:END -->
