@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Learn And Get Better At Web Development](https://mudit.hashnode.dev/how-to-learn-and-get-better-at-web-development)
 <!-- BLOG-POST-LIST:END -->
 
 
