@@ -1,98 +1,40 @@
-<h1 align="center">
-  Hi there, this is Mudit Mishra!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
+<h3 align="center">A computer science student interested in development and open source</h3>
 
-<br />
+- 🌱 I’m currently learning **Full stack web development in MERN stack**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mudit-mishra/">
-    <img align="left" alt="Mudit's LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-360-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/muditwt">
-    <img align="left" alt="Mudit's Twitter" title="My Twitter" src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmuditwt" />
-  </a>
-  <a href="https://devmudit.me/">
-    <img align="left" alt="Mudit's website" title="My website" src="https://img.shields.io/badge/website-2962FF?style=for-the-badge&logo=website&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mudit023/">
-    <img align="left" alt="Mudit's Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+- 👨‍💻 All of my projects are available at [https://devmudit.me/](https://devmudit.me/)
+
+- 📝 I regularly write articles on [mudit.hashnode.dev](mudit.hashnode.dev)
+
+- 💬 Ask me about **react, node and web designing**
+
+- 📫 How to reach me **muditmishra023@gmail.com**
+
+- 📄 Know about my experiences [https://devmudit.me/](https://devmudit.me/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit023&label=Profile%20views&color=0e75b6&style=flat" alt="mudit023" /> </p>
+<p align="left"> <a href="https://twitter.com/muditwt" target="blank"><img src="https://img.shields.io/twitter/follow/muditwt?logo=twitter&style=for-the-badge" alt="muditwt" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/muditwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muditwt" height="30" width="40" /></a>
+<a href="https://dev.to/muditwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muditwt" height="30" width="40" /></a>
+<a href="https://twitter.com/muditwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muditwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mudit-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudit-mishra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:18479841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18479841" height="30" width="40" /></a>
+<a href="https://instagram.com/mudit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudit023" height="30" width="40" /></a>
+<a href="https://hashnode.com/@muditwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@muditwt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mudit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudit023" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudit023&show_icons=true&locale=en&layout=compact" alt="mudit023" /></p>
 
-<br/>
-
- -Hi, I'm a second year CSE undergrad student and a self-taught frontend web developer based in India. I like exploring different domains and learn and apply as much as I can.
-
-I like making things beautiful and functional, with which users can interact easily. I'm just a beginner, and there is a lot left for me to learn. As of now, I'm learning fullstack web dev, designing, and data structures and algorithms.
- - Currently learning full stack web development with MERN stack.
- - Interested in web development, UI/UX, open source, and problem solving.
- - Documnenting about my learning journey on <a href="https://www.linkedin.com/in/mudit-mishra/">LinkedIn </a> and <a href="https://twitter.com/muditwt">Twitter. </a>
-
-
-<br />
-<br />
-
-<div align="center">
-
----
-	
-## Tech Stack
-
-</br>
-
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-<!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
-
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img alt="Java" src="https://img.shields.io/badge/java-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
-<!-- <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/> -->
-
-<!-- <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
-
-<img alt="node.js" src="https://img.shields.io/badge/node.js-%2300599C.svg?style=for-the-badge&logo=nodejs&logoColor=white"/>
-
-<img alt="C++" src="https://img.shields.io/badge/react.js-%2300599C.svg?style=for-the-badge&logo=react.js%2B%2B&logoColor=white"/>
-
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<!-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
-
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<!-- <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> -->
-
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-
-</br>
-</br>
-
----
-
-## Github Stats
-
-</br>
-
-</div>
-  
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mudit023&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&theme=tokyonight" />
-
-</p>
-
-
-![](https://komarev.com/ghpvc/?username=mudit023&style=flat-square&label=Profile+Visitors&color=blueviolet)
-
-[![Mudit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mudit023&theme=dracula)](https://git.io/mudit023)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&" alt="mudit023" /></p>
