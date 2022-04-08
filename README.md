@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
 <h3 align="center">A computer science student interested in development and open source</h3>
-
+<img src = "https://github.com/mudit023/mudit023/blob/main/twitter%20header.png" alt = "About Image">
 - 🌱 I’m currently learning **Full stack web development in MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://devmudit.me/](https://devmudit.me/)
