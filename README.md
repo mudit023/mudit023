@@ -2,6 +2,8 @@
 <h3 align="center">A computer science student interested in development and open source</h3>
 <img src = "https://github.com/mudit023/mudit023/blob/main/github%20image.png" alt = "About Image">
 
+<a href="https://github.com/mudit023/mudit023/blob/main/devcard.svg"><img src="https://github.com/mudit023/mudit023/blob/main/devcard.svg" align="right" width="400" height="520"  alt="Mudit's Dev Card"/></a>
+
 - 🌱 I’m currently learning **full stack web development using MERN**
 
 - 👨‍💻 All of my projects are available at [https://devmudit.me/](https://devmudit.me/)
@@ -14,7 +16,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit023&label=Profile%20views&color=0e75b6&style=flat" alt="mudit023" /> </p>
 <p align="left"> <a href="https://twitter.com/muditwt" target="blank"><img src="https://img.shields.io/twitter/follow/muditwt?logo=twitter&style=for-the-badge" alt="muditwt" /></a> </p>
-
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,7 +36,6 @@
 <a href="https://hashnode.com/@muditwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@muditwt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mudit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudit023" height="30" width="40" /></a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
