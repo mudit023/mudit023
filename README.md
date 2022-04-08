@@ -56,9 +56,9 @@ I like making things beautiful and functional, with which users can interact eas
 
 <!-- <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 
-<img alt="node.js" src="https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="node.js" src="https://img.shields.io/badge/node.js-%2300599C.svg?style=for-the-badge&logo=nodejs&logoColor=white"/>
 
-<img alt="C++" src="https://img.shields.io/badge/reactjs-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/react.js-%2300599C.svg?style=for-the-badge&logo=react.js%2B%2B&logoColor=white"/>
 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
