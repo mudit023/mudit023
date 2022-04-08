@@ -17,6 +17,7 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I am going to start journaling and you should also try](https://mudit.hashnode.dev/i-am-going-to-start-journaling-and-you-should-also-try)
 - [How To Learn And Get Better At Web Development](https://mudit.hashnode.dev/how-to-learn-and-get-better-at-web-development)
 <!-- BLOG-POST-LIST:END -->
 
