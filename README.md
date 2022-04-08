@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muditmishra023@gmail.com**
 
-- 📄 Know about my experiences [https://devmudit.me/](https://devmudit.me/)
+- 📄 Know about my experiences [dev dust](https://mudit.hashnode.dev/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit023&label=Profile%20views&color=0e75b6&style=flat" alt="mudit023" /> </p>
 <p align="left"> <a href="https://twitter.com/muditwt" target="blank"><img src="https://img.shields.io/twitter/follow/muditwt?logo=twitter&style=for-the-badge" alt="muditwt" /></a> </p>
