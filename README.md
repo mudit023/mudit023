@@ -43,4 +43,4 @@
 
 [![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudit023&count_private=true&theme=onedark)](https://github.com/mudit023/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&theme=onedark" alt="mudit023" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&theme=onedark&count_private=true" alt="mudit023" /></p>
