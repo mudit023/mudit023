@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
-<h3 align="center">A computer science student interested in development and open source</h3>
+<h3 align="center">Web Developer</h3>
 <img src = "https://github.com/mudit023/mudit023/blob/main/github%20image.png" alt = "About Image">
 
 <a href="https://github.com/mudit023/mudit023/blob/main/devcard.svg"><img src="https://github.com/mudit023/mudit023/blob/main/devcard.svg" align="right" width="400" height="520"  alt="Mudit's Dev Card"/></a>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, node and web designing**
 
-- 📫 How to reach me **muditmishra023@gmail.com**
+- 📫 Hire me for frontend work **muditmishra023@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit023&label=Profile%20views&color=0e75b6&style=flat" alt="mudit023" /> </p>
 <p align="left"> <a href="https://twitter.com/muditwt" target="blank"><img src="https://img.shields.io/twitter/follow/muditwt?logo=twitter&style=for-the-badge" alt="muditwt" /></a> </p>
