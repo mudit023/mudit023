@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devmudit.me/](https://devmudit.me/)
 
-- 📝 I regularly write articles on [mudit.hashnode.dev](mudit.hashnode.dev)
+- 📝 I regularly write articles on [mudit.hashnode.dev](https://mudit.hashnode.dev)
 
 - 💬 Ask me about **react, node and web designing**
 
