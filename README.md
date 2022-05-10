@@ -50,8 +50,8 @@ src="https://img.shields.io/github/followers/mudit023?logo=github&style=for-the-
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/mudit023"><img src="https://github-readme-stats.vercel.app/api?username=mudit023&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=onedark" alt="mudit023's GitHub stats" align="left" width="420px" /></a>
-<a href="http://www.github.com/mudit023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&hide_border=true&theme=onedark" width="420px" /></a>
+<a href="http://www.github.com/mudit023"><img src="https://github-readme-stats.vercel.app/api?username=mudit023&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=onedark" alt="mudit023's GitHub stats" align="left" width="410px" /></a>
+<a href="http://www.github.com/mudit023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&hide_border=true&theme=onedark" width="410px" /></a>
 
 ### Support Me
 
