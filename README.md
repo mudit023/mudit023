@@ -55,6 +55,6 @@ src="https://img.shields.io/github/followers/mudit023?logo=github&style=for-the-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/muditwt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
-<a href="https://mudit.hashnode.dev/sponsor"><img src="https://github.com/mudit023/mudit023/blob/main/sponsor.png" width="180" /></a>
+<a href="https://www.buymeacoffee.com/muditwt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180px" /></a>
+<a href="https://mudit.hashnode.dev/sponsor"><img src="https://github.com/mudit023/mudit023/blob/main/sponsor.png" width="180px" /></a>
 
