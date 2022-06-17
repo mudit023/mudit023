@@ -23,11 +23,11 @@ src="https://img.shields.io/github/followers/mudit023?logo=github&style=for-the-
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Time Complexity](https://mudit.hashnode.dev/what-is-time-complexity)
 - [Show Your Work](https://mudit.hashnode.dev/show-your-work)
 - [Getting Started With Open Source](https://mudit.hashnode.dev/getting-started-with-open-source)
 - [Git And GitHub For Beginners](https://mudit.hashnode.dev/git-and-github-for-beginners)
 - [Backend Development Is Not Hard](https://mudit.hashnode.dev/backend-development-is-not-hard)
+- [You Are Not Going To Win Always - And It&#39;s Okay](https://mudit.hashnode.dev/you-are-not-going-to-win-always-and-its-okay)
 <!-- BLOG-POST-LIST:END -->
 
 
