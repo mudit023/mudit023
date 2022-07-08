@@ -4,13 +4,11 @@
 
 <a href="https://github.com/mudit023/mudit023/blob/main/devcard.svg"><img src="https://github.com/mudit023/mudit023/blob/main/devcard.svg" align="right" width="400" height="520"  alt="Mudit's Dev Card"/></a>
 
-- 🌱 I’m currently learning **full stack web development using MERN**
-
-- 👨‍💻 All of my projects are available at [https://devmudit.me/](https://devmudit.me/)
+- 🌱 I’m currently learning **MERN** stack
 
 - 📝 I regularly write articles on [mudit.hashnode.dev](https://mudit.hashnode.dev)
 
-- 💬 Ask me about **react, node and web designing**
+- 💬 Let's have a chat about **JavaScript, Content Creation, Open Source, and Community**
 
 - 📫 Hire me for frontend or technical writing work **muditmishra023@gmail.com**
 
