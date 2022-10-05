@@ -4,7 +4,7 @@
 
 <a href="https://github.com/mudit023/mudit023/blob/main/devcard.svg"><img src="https://github.com/mudit023/mudit023/blob/main/devcard.svg" align="right" width="400" height="520"  alt="Mudit's Dev Card"/></a>
 
-- 🌱 I’m currently learning **MERN** stack
+- 🌱 I’m currently working on **MERN** stack
 
 - 📝 I regularly write articles on [mudit.hashnode.dev](https://mudit.hashnode.dev)
 
