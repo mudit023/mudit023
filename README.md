@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
-<h3 align="center">Web Developer</h3>
-<img src = "https://github.com/mudit023/mudit023/blob/main/github%20image.png" alt = "About Image">
+<h3 align="center">Web Developer | Technical Writer</h3>
+
+[![@mudit's Holopin board](https://holopin.me/mudit)](https://holopin.io/@mudit)
 
 <a href="https://github.com/mudit023/mudit023/blob/main/devcard.svg"><img src="https://github.com/mudit023/mudit023/blob/main/devcard.svg" align="right" width="400" height="520"  alt="Mudit's Dev Card"/></a>
 
