@@ -57,10 +57,3 @@ src="https://img.shields.io/github/followers/mudit023?logo=github&style=for-the-
 <a href="http://www.github.com/mudit023"><img src="https://github-readme-stats.vercel.app/api?username=mudit023&show_icons=true&count_private=true&hide_border=true&theme=onedark" alt="mudit023's GitHub stats" align="left" width="410px" /></a>
 
 <a href="http://www.github.com/mudit023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mudit023&hide_border=true&theme=onedark" width="410px" /></a>
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/muditwt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180px" /></a>
-<a href="https://mudit.hashnode.dev/sponsor"><img src="https://github.com/mudit023/mudit023/blob/main/sponsor.png" width="180px" /></a>
-
