@@ -22,11 +22,11 @@ src="https://img.shields.io/github/followers/mudit023?logo=github&style=for-the-
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Build My First App](https://mudit.hashnode.dev/i-build-my-first-app)
 - [What Is Space Complexity And Auxiliary Space](https://mudit.hashnode.dev/what-is-space-complexity-and-auxiliary-space)
 - [What Is Time Complexity](https://mudit.hashnode.dev/what-is-time-complexity)
 - [Show Your Work](https://mudit.hashnode.dev/show-your-work)
 - [Getting Started With Open Source](https://mudit.hashnode.dev/getting-started-with-open-source)
-- [Git And GitHub For Beginners](https://mudit.hashnode.dev/git-and-github-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 
