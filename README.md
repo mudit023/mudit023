@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
-<h3 align="center">Web Developer | Technical Writer</h3>
+<h3 align="center">React Developer | Technical Writer</h3>
 
 [![@mudit's Holopin board](https://holopin.me/mudit)](https://holopin.io/@mudit)
 
