@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [mudit.hashnode.dev](https://mudit.hashnode.dev)
 
-- 💬 Always open for a chat on **JavaScript, React.js, Open Source, and Community**
+- 💬 Always open for a chat on **JavaScript, React.js, Open Source, and Movies**
 
 - 📧 Ping me at **muditmishra023@gmail.com** and let's have a chat
 
