@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
+<h1 align="center">Hi 👋, I'm Mudit</h1>
 <h3 align="center">Software Developer | Technical Writer</h3>
 
 [![@mudit's Holopin board](https://holopin.me/mudit)](https://holopin.io/@mudit)
